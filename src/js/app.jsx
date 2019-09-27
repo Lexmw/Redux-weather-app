@@ -17,7 +17,6 @@ export default class App extends React.Component {
           <div id='searchbar'>
             <SearchBar/>
           </div>
-          <br/>
 
           <div className='row' id='information'>
             <div className='col-12 col-md-6 mb-4'>
